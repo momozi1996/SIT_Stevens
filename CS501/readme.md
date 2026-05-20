@@ -1,57 +1,58 @@
 # CS501的课程作业记录
 
-zyBooks官网链接在这里：https://www.zybooks.com/
+zyBooks官网链接在这里：https://www.zybooks.com/ <br>
 
 ## 【CS501 INTRODUCTION TO JAVA PROGRAMMING】
-在学习课程【CS501 INTRODUCTION TO JAVA PROGRAMMING】之前，请务必仔细阅读【课程大纲Syllabus】文件内容，关注班级群通知消息，按时完成每周的课程学习和练习题目内容~
-※需要注意的是：CS501每周视频学习的时长较长，教授讲解的内容非常详细，【尤其每周的Practice视频部分】，基本都能涵盖每周作业任务的知识点，同学们把学习重点放在教授上课视频讲解中，会有事半功倍的效果~
+在学习课程【CS501 INTRODUCTION TO JAVA PROGRAMMING】之前，请务必仔细阅读【课程大纲Syllabus】文件内容，关注班级群通知消息，按时完成每周的课程学习和练习题目内容~<br>
+※需要注意的是：CS501每周视频学习的时长较长，教授讲解的内容非常详细，【尤其每周的Practice视频部分】，基本都能涵盖每周作业任务的知识点，同学们把学习重点放在教授上课视频讲解中，会有事半功倍的效果~<br>
 
-【CS501 INTRODUCTION TO JAVA PROGRAMMING】的学习内容主要包括：
-√ 程序结构和 Java 语法等基本概念
-√ 数据类型
-√ 面向对象编程
-√ 抽象类和接口
-√ 控制流
-√ 异常处理
-√ 递归
-√ 事件驱动编程
-√ 同学将编写、编译和执行操作数据或字符串数组的程序，包括具有图形用户界面的程序
+【CS501 INTRODUCTION TO JAVA PROGRAMMING】的学习内容主要包括：<br>
+√ 程序结构和 Java 语法等基本概念<br>
+√ 数据类型<br>
+√ 面向对象编程<br>
+√ 抽象类和接口<br>
+√ 控制流<br>
+√ 异常处理<br>
+√ 递归<br>
+√ 事件驱动编程<br>
+√ 同学将编写、编译和执行操作数据或字符串数组的程序，包括具有图形用户界面的程序<br>
 
-重点来了！！
+重点来了！！<br>
 
-关于CS 501这门课程的各项分数占比：
-1.zyBooks的Reading/Participation Activities——20%
-2.zyBooks的Challenge Activities——20%
-3.【6个】编程项目——40%
-4.每一模块（章节）的1个小测验——20%
-
-
-在这门课程学习中，按教授要求，作业和测验等学习任务会设置截止时间due date，大家一定按时完成并提交。若在两天内迟交会扣除该项作业分数的20%，超过两天将会得到0分，所以请各位同学提前规划好学习时间。
-如遇特殊原因无法按时提交的情况，请一定提前和教授申请并邮件沟通，确定延期提交时间，提供相关证明并和教授邮件沟通确定好，申请调整个人的提交时间。
-
-### 📚5月19日-5月24日（第一周）的学习内容：
-同学们可以在lumina上开始学习了！
-
-📚5月19日-5月24日（第一周）的学习内容：
-1. lumina上Module1 和Module2 的内容学习，包括视频课、PPT和教授额外推荐的阅读材料；
-2. Java环境的配置（在Module1的内容中）；
-3. 🎨计分任务（除了Quiz部分，其他均通过zyBooks来完成）：
-① Module1 中【Introduction to Java Programming using zyBooks】模块下的2份作业；
-② Module1 中的Quiz；
-③ Module2 中【Variables】模块下的2份作业；
-④ Module2 中的Quiz；
-⑤ Programming Assignment1：Simple Statistics；
-
-📣以上作业的截止时间deadline都是 **【北京时间5月25日晚上11:59】**
-（正常作业截止时间为 **北京时间每周日晚23:59** ，考虑到同学们需要时间熟悉平台、适应学习节奏，第一周作业延期到5月25日晚23:59）
+关于CS 501这门课程的各项分数占比：<br>
+1.zyBooks的Reading/Participation Activities——20%<br>
+2.zyBooks的Challenge Activities——20%<br>
+3.【6个】编程项目——40%<br>
+4.每一模块（章节）的1个小测验——20%<br>
 
 
-📣【温馨提示】
-* Reading and Participation（对应zyBooks橙色块内容）需要全部完成；
-* Challenge Activities（对应zyBooks蓝色块内容） 类型的作业同上。
-* CS501在zyBooks上的Code为 【979-8-203-27123-5】，需要同学们付费订阅，订阅之后，就可以开始完成作业啦
+在这门课程学习中，按教授要求，作业和测验等学习任务会设置截止时间due date，大家一定按时完成并提交。若在两天内迟交会扣除该项作业分数的20%，超过两天将会得到0分，所以请各位同学提前规划好学习时间。<br>
+如遇特殊原因无法按时提交的情况，请一定提前和教授申请并邮件沟通，确定延期提交时间，提供相关证明并和教授邮件沟通确定好，申请调整个人的提交时间。<br>
 
-请各位合理安排一周的学习时间，顺利完成本周任务～👍 👍 👍 💪 💪 💪
+### 📚5月19日-5月24日（第一周）的学习内容：<br>
+在lumina上学习： https://www.luminaedu.com/dashboard <br> 
+zyBooks上完成作业：https://learn.zybooks.com/zybook/STEVENSCS501ONLBReidSummer2026?ISBN=979-8-203-27123-5 <br> 
+
+📚5月19日-5月24日（第一周）的学习内容：<br>
+1. lumina上Module1 和Module2 的内容学习，包括视频课、PPT和教授额外推荐的阅读材料；<br>
+2. Java环境的配置（在Module1的内容中）；<br>
+3. 🎨计分任务（除了Quiz部分，其他均通过zyBooks来完成）：<br>
+① Module1 中【Introduction to Java Programming using zyBooks】模块下的2份作业；<br>
+② Module1 中的Quiz；<br>
+③ Module2 中【Variables】模块下的2份作业；<br>
+④ Module2 中的Quiz；<br>
+⑤ Programming Assignment1：Simple Statistics；<br>
+
+📣以上作业的截止时间deadline都是 **【北京时间5月25日晚上11:59】** <br>
+（正常作业截止时间为 **北京时间每周日晚23:59** ，考虑到同学们需要时间熟悉平台、适应学习节奏，第一周作业延期到5月25日晚23:59） <br>
+
+
+📣【温馨提示】 <br>
+* Reading and Participation（对应zyBooks橙色块内容）需要全部完成；<br>
+* Challenge Activities（对应zyBooks蓝色块内容） 类型的作业同上。<br>
+* CS501在zyBooks上的Code为 【979-8-203-27123-5】，需要同学们付费订阅，订阅之后，就可以开始完成作业啦<br>
+
+请各位合理安排一周的学习时间，顺利完成本周任务～👍 👍 👍 💪 💪 💪<br>
 
 
 
